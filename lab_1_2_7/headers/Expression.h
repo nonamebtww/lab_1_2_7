@@ -1,3 +1,5 @@
+#pragma once
+
 struct Expression {
 public:
 	virtual ~Expression() = default;

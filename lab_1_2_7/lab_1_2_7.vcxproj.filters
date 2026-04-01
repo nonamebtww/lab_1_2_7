@@ -30,6 +30,9 @@
     <ClInclude Include="headers\BinaryOperation.h">
       <Filter>Header Files\models</Filter>
     </ClInclude>
+    <ClInclude Include="headers\FunctionCall.h">
+      <Filter>Header Files\models</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\main.cpp">
@@ -39,6 +42,9 @@
       <Filter>Source Files\models</Filter>
     </ClCompile>
     <ClCompile Include="source\BinaryOperation.cpp">
+      <Filter>Source Files\models</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FunctionCall.cpp">
       <Filter>Source Files\models</Filter>
     </ClCompile>
   </ItemGroup>

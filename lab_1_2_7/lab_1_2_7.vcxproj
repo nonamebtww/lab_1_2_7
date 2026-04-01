@@ -133,10 +133,12 @@
   <ItemGroup>
     <ClInclude Include="headers\BinaryOperation.h" />
     <ClInclude Include="headers\Expression.h" />
+    <ClInclude Include="headers\FunctionCall.h" />
     <ClInclude Include="headers\Number.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\BinaryOperation.cpp" />
+    <ClCompile Include="source\FunctionCall.cpp" />
     <ClCompile Include="source\main.cpp" />
     <ClCompile Include="source\Number.cpp" />
   </ItemGroup>
